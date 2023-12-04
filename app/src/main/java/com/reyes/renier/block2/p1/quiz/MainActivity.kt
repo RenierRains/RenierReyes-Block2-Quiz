@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     RenierReyesBlock2QuizTheme {
-        Greeting("YO!")
+        Greeting("test1247862354")
     }
 }
